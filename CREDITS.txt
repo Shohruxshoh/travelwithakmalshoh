@@ -37,6 +37,12 @@ Google Fonts :
 	License : SIL Open Font License, Version 1.1.
 	License URL : http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 
+Pexels Testimonial Portraits :
+	Zuhra avatar source : https://www.pexels.com/photo/traditional-uzbek-dress-portrait-outside-ornate-building-30133162/
+	Rustam avatar source : https://www.pexels.com/photo/portrait-of-man-wearing-traditional-fur-hat-10811824/
+	Malika avatar source : https://www.pexels.com/photo/a-woman-posing-in-a-city-21923377/
+	License URL : https://www.pexels.com/license/
+
 	
 	
 
